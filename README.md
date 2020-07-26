@@ -1,2 +1,2 @@
 # LetsUpgradeBlockchain
-Assignment day 1
+Assignment day
